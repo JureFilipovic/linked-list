@@ -1,6 +1,6 @@
 import LinkedList from "./linked-list.js";
 
-const list = new LinkedList();
+const list = LinkedList();
 
 list.append("dog");
 list.append("cat");
